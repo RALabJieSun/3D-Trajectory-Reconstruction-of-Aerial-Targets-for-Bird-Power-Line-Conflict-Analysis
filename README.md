@@ -20,6 +20,8 @@ The videos mainly show:
 
 **Please be patient. Each GIF may take 1–2 minutes to load. A total of three demonstration GIFs are provided below.**
 
+**To watch them again, please refresh the page.**
+
 ![鸟类飞行跟踪演示-1](./鸟类飞行跟踪视频_追踪视频-1.gif)
 
 ![鸟类飞行跟踪演示-2](./多目标鸟类跟踪视频_追踪视频_2.gif)
