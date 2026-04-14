@@ -20,3 +20,19 @@ The videos mainly show:
 
 
 
+```
+![鸟类飞行跟踪演示-1](https://github.com/RALabJieSun/3D-Trajectory-Reconstruction-of-Aerial-Targets-for-Bird-Power-Line-Conflict-Analysis/blob/master/%E5%A4%9A%E7%9B%AE%E6%A0%87%E9%B8%9F%E7%B1%BB%E8%B7%9F%E8%B8%AA%E8%A7%86%E9%A2%91_%E8%BF%BD%E8%B8%AA%E8%A7%86%E9%A2%91_2.gif)
+```
+
+
+
+```
+![鸟类飞行跟踪演示-2](https://github.com/RALabJieSun/3D-Trajectory-Reconstruction-of-Aerial-Targets-for-Bird-Power-Line-Conflict-Analysis/blob/master/%E9%B8%9F%E7%B1%BB%E9%A3%9E%E8%A1%8C%E8%B7%9F%E8%B8%AA%E8%A7%86%E9%A2%91_%E8%BF%BD%E8%B8%AA%E8%A7%86%E9%A2%91-1.gif)
+```
+
+
+
+```
+![鸟类飞行跟踪演示](https://example.com/xxx.gif)
+```
+
