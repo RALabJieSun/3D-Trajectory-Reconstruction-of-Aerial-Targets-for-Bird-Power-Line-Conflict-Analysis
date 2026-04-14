@@ -18,7 +18,7 @@ The videos mainly show:
 
 ## Video
 
-![鸟类飞行跟踪演示-1](./鸟类飞行跟踪视频_追踪视频-1.gif)
+![鸟类飞行跟踪演示-1](https://github.com/RALabJieSun/3D-Trajectory-Reconstruction-of-Aerial-Targets-for-Bird-Power-Line-Conflict-Analysis/blob/master/鸟类飞行跟踪视频_追踪视频-1.gif)
 
 ![鸟类飞行跟踪演示-2](./多目标鸟类跟踪视频_追踪视频_2.gif)
 
